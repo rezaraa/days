@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">days</string>
+    <string name="first_quarter_of_the_year">First quarter of the year</string>
+    <string name="jan">JAN</string>
+    <string name="feb">FEB</string>
+    <string name="mar">MAR</string>
+    <string name="second_quarter_of_the_year">Second quarter of the year</string>
+    <string name="apr">APR</string>
+    <string name="may">MAY</string>
+    <string name="jun">JUN</string>
+    <string name="third_quarter_of_the_year">Third quarter of the year</string>
+    <string name="jul">JUL</string>
+    <string name="aug">AUG</string>
+    <string name="sep">SEP</string>
+    <string name="last_quarter_of_the_year">Last quarter of the year</string>
+    <string name="oct">OCT</string>
+    <string name="nov">NOV</string>
+    <string name="dec">DEC</string>
+</resources>
